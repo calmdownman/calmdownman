@@ -5,6 +5,7 @@
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
  <img alt="Android Studio" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
+ <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 
 <!--
 **calmdownman/calmdownman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
